@@ -19,18 +19,18 @@ Por supuesto, requiere algunas mejoras que iré implementando poco a poco. Mient
 ## Features
 
 - Activa otra alerta si el usuario da clic en el botón de “añadir” sin haber introducido ningún nombre.
-![¿Te gustaría jugar? Presiona aquí](/assets/boton-añadir.png)
+[](./assets/boton-anadir.png)
 
 - Activa una alerta si el usuario da clic en el botón “sortear amigo” sin haber introducido ningún nombre y creado una lista
-![¿Te gustaría jugar? Presiona aquí](/assets/boton-sortear-amigo.png)
+![¿Te gustaría jugar? Presiona aquí](./assets/boton-sortear-amigo.png)
 
 - Crea una lista y sortea de forma aleatoria un nombre para descubrir al amigo secreto. 
-![¿Te gustaría jugar? Presiona aquí](/assets/lista-amigos.png)
+![¿Te gustaría jugar? Presiona aquí](./assets/lista-amigos.png)
 
 - Realiza el sorteo y limpia el campo donde se escriben los nombres
-![¿Te gustaría jugar? Presiona aquí](/assets/amigo-sorteado.png/)
+![¿Te gustaría jugar? Presiona aquí](./assets/amigo-sorteado.png)
 
-- Restablece las funciones iniciales mediante el botón “reiniciar juego”.
+- Restablece las funciones iniciales mediante el botón/assets/amigo-sorteado.png/ “reiniciar juego”.
 
 
 
